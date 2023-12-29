@@ -1,0 +1,14 @@
+F:\GeekBrains\GeekBrains новый\4. Знакомство с языками программирования\3. Семинар_Простые Алгоритмы(25.12)\sem_2_C#\sem_2\homework\bin\Debug\net7.0\homework.exe
+F:\GeekBrains\GeekBrains новый\4. Знакомство с языками программирования\3. Семинар_Простые Алгоритмы(25.12)\sem_2_C#\sem_2\homework\bin\Debug\net7.0\homework.deps.json
+F:\GeekBrains\GeekBrains новый\4. Знакомство с языками программирования\3. Семинар_Простые Алгоритмы(25.12)\sem_2_C#\sem_2\homework\bin\Debug\net7.0\homework.runtimeconfig.json
+F:\GeekBrains\GeekBrains новый\4. Знакомство с языками программирования\3. Семинар_Простые Алгоритмы(25.12)\sem_2_C#\sem_2\homework\bin\Debug\net7.0\homework.dll
+F:\GeekBrains\GeekBrains новый\4. Знакомство с языками программирования\3. Семинар_Простые Алгоритмы(25.12)\sem_2_C#\sem_2\homework\bin\Debug\net7.0\homework.pdb
+F:\GeekBrains\GeekBrains новый\4. Знакомство с языками программирования\3. Семинар_Простые Алгоритмы(25.12)\sem_2_C#\sem_2\homework\obj\Debug\net7.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\GeekBrains новый\4. Знакомство с языками программирования\3. Семинар_Простые Алгоритмы(25.12)\sem_2_C#\sem_2\homework\obj\Debug\net7.0\homework.AssemblyInfoInputs.cache
+F:\GeekBrains\GeekBrains новый\4. Знакомство с языками программирования\3. Семинар_Простые Алгоритмы(25.12)\sem_2_C#\sem_2\homework\obj\Debug\net7.0\homework.AssemblyInfo.cs
+F:\GeekBrains\GeekBrains новый\4. Знакомство с языками программирования\3. Семинар_Простые Алгоритмы(25.12)\sem_2_C#\sem_2\homework\obj\Debug\net7.0\homework.csproj.CoreCompileInputs.cache
+F:\GeekBrains\GeekBrains новый\4. Знакомство с языками программирования\3. Семинар_Простые Алгоритмы(25.12)\sem_2_C#\sem_2\homework\obj\Debug\net7.0\homework.dll
+F:\GeekBrains\GeekBrains новый\4. Знакомство с языками программирования\3. Семинар_Простые Алгоритмы(25.12)\sem_2_C#\sem_2\homework\obj\Debug\net7.0\refint\homework.dll
+F:\GeekBrains\GeekBrains новый\4. Знакомство с языками программирования\3. Семинар_Простые Алгоритмы(25.12)\sem_2_C#\sem_2\homework\obj\Debug\net7.0\homework.pdb
+F:\GeekBrains\GeekBrains новый\4. Знакомство с языками программирования\3. Семинар_Простые Алгоритмы(25.12)\sem_2_C#\sem_2\homework\obj\Debug\net7.0\homework.genruntimeconfig.cache
+F:\GeekBrains\GeekBrains новый\4. Знакомство с языками программирования\3. Семинар_Простые Алгоритмы(25.12)\sem_2_C#\sem_2\homework\obj\Debug\net7.0\ref\homework.dll
